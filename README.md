@@ -7,11 +7,10 @@ The Backend with Nodejs
 Get the code
 
 <pre>git clone https://github.com/udofia2/backend.git</pre>
- 
+
 Install required dependencies
 
 <pre>yarn install</pre>
-
 
 Start the server
 
